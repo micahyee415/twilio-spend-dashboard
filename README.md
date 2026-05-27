@@ -35,8 +35,7 @@ Data is fetched server-side via the Twilio REST API and cached at the edge (Verc
 
 ## Screenshots
 
-> _Add screenshots here before publishing._
-
+![Twilio Spend Dashboard](docs/screenshot.png)
 ---
 
 ## Architecture
